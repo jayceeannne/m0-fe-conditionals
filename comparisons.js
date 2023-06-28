@@ -41,11 +41,20 @@ console.log(friends > siblings);
 // YOU DO: Explain.
 "Is friends greater than siblings?"
 
+// The task is to figure out if the variable "friends" is greater than the variable "siblings".
+// After creating the variables you place them in a console.log() to print out a boolean. In this case, 
+// friends is greater than siblings.
+
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
 "attendees is not strictly equal to meals"
+
+// The task is to figure our is the variable "attendees" is not equal to the variable "meals".
+// Like the previous problem, you place both variables in a console.log() . To figure out if the 
+// variables are strictly not equal you use the comparison operator  !==  which means strictly not equal to.
+// In this case, attendees is strictly not equal to meals. 
 
 
 // #-------------------
